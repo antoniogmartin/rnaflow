@@ -1,0 +1,14 @@
+name: rnaflow
+
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - openjdk==17.0.17
+  - pip
+  - pip:
+    # Dependencies
+    - nextflow==23.10
+    - singularity
+

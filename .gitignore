@@ -2,6 +2,7 @@
 conda/
 singularity/
 .vscode/
+.idea/
 
 # some data aspects
 *fai  # fasta indices
