@@ -59,8 +59,13 @@ def regex_find(folder_path,pattern, pattern2, analysis_name):
     #print(f"Found {len(matches)} matching files:")
     for file in matches:
         parts = file.split('-')
-        suffix= parts[-1].replace('.fastq.gz', '').upper()
-        sample_name = f"{parts[0]}-{suffix}".upper()
+
+        if "Mock" in file:
+            suffix = parts[2].upper()+"-"+parts[-1].replace('.fastq.gz', '').upper()
+            sample_name = f"{parts[0]}-{suffix}".upper()
+        else:
+            suffix = parts[-1].replace('.fastq.gz', '').upper()
+            sample_name = f"{parts[0]}-{suffix}".upper()
         #print(f"{sample_name}",f"jose-data/{file}",f"{suffix}",",,0")
         matrix.append([sample_name,f"test-data/jose-data/{file}",None,suffix,None,"0"])
     analysis_df = pd.DataFrame(matrix, columns=['Sample', "R1", "R2", "Condition", "Source", "Strandedness"])
