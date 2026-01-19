@@ -19,8 +19,8 @@ results/
 .nextflow/
 nextflow-autodownload-databases/
 nextflow-run-infos/
-
-
+test-data/jose-data/
+raw_reads/
 # large file extensions
 *.pdf
 

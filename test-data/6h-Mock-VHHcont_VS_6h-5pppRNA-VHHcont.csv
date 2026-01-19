@@ -1,0 +1,7 @@
+Sample,R1,R2,Condition,Source,Strandedness
+N3-VHHCONT,jose-data/N3-6h-Mock-VHHcont.fastq.gz,,VHHCONT,,0
+N1-VHHCONT,jose-data/N1-6h-Mock-VHHcont.fastq.gz,,VHHCONT,,0
+N2-VHHCONT,jose-data/N2-6h-Mock-VHHcont.fastq.gz,,VHHCONT,,0
+N2-VHHCONT,jose-data/N2-6h-5pppRNA-VHHcont.fastq.gz,,VHHCONT,,0
+N1-VHHCONT,jose-data/N1-6h-5pppRNA-VHHcont.fastq.gz,,VHHCONT,,0
+N3-VHHCONT,jose-data/N3-6h-5pppRNA-VHHcont.fastq.gz,,VHHCONT,,0

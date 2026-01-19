@@ -11,4 +11,5 @@ dependencies:
     # Dependencies
     - nextflow==23.10
     - singularity
+    - pandas
 

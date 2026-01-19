@@ -1,0 +1,7 @@
+Sample,R1,R2,Condition,Source,Strandedness
+N1-VHHMAVS9,jose-data/N1-24h-Mock-VHHmavs9.fastq.gz,,VHHMAVS9,,0
+N2-VHHMAVS9,jose-data/N2-24h-Mock-VHHmavs9.fastq.gz,,VHHMAVS9,,0
+N3-VHHMAVS9,jose-data/N3-24h-Mock-VHHmavs9.fastq.gz,,VHHMAVS9,,0
+N2-VHHMAVS9,jose-data/N2-24h-5pppRNA-VHHmavs9.fastq.gz,,VHHMAVS9,,0
+N3-VHHMAVS9,jose-data/N3-24h-5pppRNA-VHHmavs9.fastq.gz,,VHHMAVS9,,0
+N1-VHHMAVS9,jose-data/N1-24h-5pppRNA-VHHmavs9.fastq.gz,,VHHMAVS9,,0
