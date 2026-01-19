@@ -61,7 +61,7 @@ def regex_find(folder_path,pattern, pattern2, analysis_name):
         parts = file.split('-')
 
         if "Mock" in file:
-            suffix = parts[2].upper()+"-"+parts[-1].replace('.fastq.gz', '').upper()
+            suffix = parts[2].upper()+parts[-1].replace('.fastq.gz', '').upper()
             sample_name = f"{parts[0]}-{suffix}".upper()
         else:
             suffix = parts[-1].replace('.fastq.gz', '').upper()
