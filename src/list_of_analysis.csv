@@ -3,9 +3,9 @@ input,input2,analysis_name
 6h-5pppRNA-VHHcont,6h-5pppRNA-VHHmavs10,6h-5pppRNA-VHHcont_VS_6h-5pppRNA-VHHmavs10.csv
 24h-5pppRNA-VHHcont,24h-5pppRNA-VHHmavs9,24h-5pppRNA-VHHcont_VS_24h-5pppRNA-VHHmavs9.csv
 24h-5pppRNA-VHHcont,24h-5pppRNA-VHHmavs10,24h-5pppRNA-VHHcont_VS_24h-5pppRNA-VHHmavs10.csv
-6h-Mock-VHHcont,6h-5pppRNA-VHHcont,6h-Mock-VHHcont_VS_6h-5pppRNA-VHHcont.csv
-6h-Mock-VHHmavs9,6h-5pppRNA-VHHmavs9,6h-Mock-VHHmavs9_VS_6h-5pppRNA-VHHmavs9.csv
-6h-Mock-VHHmavs10,6h-5pppRNA-VHHmavs10,6h-Mock-VHHmavs10_VS_6h-5pppRNA-VHHmavs10.csv
-24h-Mock-VHHcont,24h-5pppRNA-VHHcont,24h-Mock-VHHcont_VS_24h-5pppRNA-VHHcont.csv
-24h-Mock-VHHmavs9,24h-5pppRNA-VHHmavs9,24h-Mock-VHHmavs9_VS_24h-5pppRNA-VHHmavs9.csv
-24h-Mock-VHHmavs10,24h-5pppRNA-VHHmavs10,24h-Mock-VHHmavs10_VS_24h-5pppRNA-VHHmavs10.csv
+6h-5pppRNA-VHHcont,6h-Mock-VHHcont,6h-5pppRNA-VHHcont_VS_6h-Mock-VHHcont.csv
+6h-5pppRNA-VHHmavs9,6h-Mock-VHHmavs9,6h-5pppRNA-VHHmavs9_VS_6h-Mock-VHHmavs9.csv
+6h-5pppRNA-VHHmavs10,6h-Mock-VHHmavs10,6h-5pppRNA-VHHmavs10_VS_6h-Mock-VHHmavs10.csv
+24h-5pppRNA-VHHcont,24h-Mock-VHHcont,24h-5pppRNA-VHHcont_VS_24h-Mock-VHHcont.csv
+24h-5pppRNA-VHHmavs9,24h-Mock-VHHmavs9,24h-5pppRNA-VHHmavs9_VS_24h-Mock-VHHmavs9.csv
+24h-5pppRNA-VHHmavs10,24h-Mock-VHHmavs10,24h-5pppRNA-VHHmavs10_VS_24h-Mock-VHHmavs10.csv
